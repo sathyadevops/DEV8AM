@@ -1,3 +1,10 @@
+
+void Deposite()
+{
+  bal = bal + amount
+}
+
+
 class Bank
 {
   public static void main(String []args)
