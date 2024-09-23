@@ -1,4 +1,3 @@
-
 void Multiplication()
 {
   c=a*b
@@ -6,6 +5,14 @@ void Multiplication()
 void division()
 {
   c=a/b
+}
+void Addition()
+{
+  c=a+b
+}
+void Subtraction()
+{
+  c=a-b
 }
 
 void main()
