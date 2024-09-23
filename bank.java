@@ -4,6 +4,11 @@ void Deposite()
   bal = bal + amount
 }
 
+void Withdraw()
+{
+  bal = bal - amount
+}	
+
 
 class Bank
 {
