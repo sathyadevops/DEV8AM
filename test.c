@@ -5,6 +5,12 @@ void Logic-A()
   ::: code-A :::
 }
 
+void Logic-B()
+{
+  ::: code-B :::
+  ::: code-B :::
+  ::: code-B :::
+}
 
 
 
