@@ -1,3 +1,36 @@
+void Logic-A()
+{
+  ::: code-A :::
+  ::: code-A :::
+  ::: code-A :::
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void code-A()
 {
   ::: code-A :::
