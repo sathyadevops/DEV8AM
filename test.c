@@ -12,6 +12,14 @@ void Logic-B()
   ::: code-B :::
 }
 
+void Logic-C()
+{
+  ::: code-C :::
+  ::: code-C :::
+  ::: code-C :::
+}
+
+
 
 
 
