@@ -11,3 +11,10 @@ void code-B()
   ::: code-B :::
   ::: code-B :::
 }
+
+void code-C()
+{
+  ::: code-C :::
+  ::: code-C :::
+  ::: code-C :::
+}
