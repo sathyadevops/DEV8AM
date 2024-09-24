@@ -1,4 +1,11 @@
 
+void fundsTrans()
+{
+  bal = bal - amount
+  ben_bal = ben_bal + amount
+}	
+
+
 void Deposite()
 {
   bal = bal + amount
